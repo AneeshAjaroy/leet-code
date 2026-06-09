@@ -1,4 +1,5 @@
 # 3633. Earliest Finish Time for Land and Water Rides I
+# 3635. Earliest Finish Time for Land and Water Rides I
 
 I think the key is solving both cases water ride + land ride / land ride + water ride
 and select the best one
@@ -19,3 +20,6 @@ select the least of two
 normal looping over arrays only
 
 Time Complexity :- O(n)
+
+### Update 03/06/26 
+3635 problem can also be solved with same solution as 3633
